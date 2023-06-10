@@ -1,6 +1,6 @@
 # Projeto-formulario-de-login-e-cadastro
 
-Mobile 375px
+Mobile 375px<br>
 ![loginpage375px](https://github.com/Kauaguarinogabriell/Projeto-formulario-de-login-e-cadastro/assets/111528352/b0193f80-d515-4fa9-9a0c-971bc1a78d85)
 
 
