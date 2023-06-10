@@ -1,0 +1,131 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500&display=swap');
+html, body{
+    margin: 0;
+    min-height: 100vh;
+    background: #4169E1;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+}
+
+main{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    min-height: 100vh;
+}
+
+form{
+    background: #FFFFFF;
+    min-width: 35vw;
+    padding: 1rem 1.2rem;
+    box-shadow: -5px 0px 5px #413a3a;
+}
+
+fieldset{
+    border: 0 none;
+}
+
+label{
+    text-transform: uppercase;
+    font-size: .9rem;
+}
+
+.fieldset-body > input{
+    display: block;
+    width: 100%;
+    border: 0;
+    border-bottom: 1px solid #456cdf;
+    margin: .7rem 0px;
+    padding: 10px 0px;
+    box-sizing: border-box;
+}
+
+input:focus{
+    outline: 1px solid #456cdf;
+    padding: 10px 5px;
+    transition-delay: .1s;
+    transition: 150ms;
+}
+
+legend{
+    font-size: 2rem;
+    padding: 10px 0px;
+    color: #456cdf;
+}
+
+.fieldset-footer{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0;
+    margin-top: 15px;
+}
+
+.fieldset-footer input{
+    text-transform: uppercase;
+    display: flex;
+    background: #456cdf;
+    border: 0 none;
+    color: #FFFFFF;
+    padding: 12px 20px;
+    border-radius: 5px;
+    font-weight: bold;
+    font-size: .9rem;
+}
+
+.fieldset-footer input:hover{
+    background-color: #142146;
+    cursor: pointer;
+}
+
+p{
+    font-size: .9rem;
+}
+
+/*login page*/
+.fieldset-footer div{
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+}
+
+.cadastro{
+    text-decoration: none;
+    text-transform: uppercase;
+    font-weight: 500;
+    color:  #456cdf;
+}
+
+.cadastro:hover{
+    color: #142146;
+}
+/*login page*/
+
+
+
+@media (max-width:1200px){
+   main{
+    padding: 0px 50px;
+   }
+
+   .fieldset-footer{
+    margin-top: 2rem;
+    flex-direction: column;
+   }
+
+   .fieldset-footer p,a{
+    margin-top: 1.5rem;
+    font-size: .8rem;
+   }
+
+   .cadastro{
+    margin: 0;
+   }
+}
+
+@media (min-width: 767px){
+    .fieldset-footer{
+        font-size: 1rem;
+    }
+}
