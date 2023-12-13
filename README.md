@@ -1,19 +1,24 @@
 # Projeto-formulario-de-login-e-cadastro
 
-Mobile 375px<br>
-![loginpage375px](https://github.com/Kauaguarinogabriell/Projeto-formulario-de-login-e-cadastro/assets/111528352/b0193f80-d515-4fa9-9a0c-971bc1a78d85)
+## Mobile 375px<br>
+![loginpage375px](https://github.com/Kauaguarinogabriell/Projeto-formulario-de-login-e-cadastro/assets/111528352/b2adf009-7fd5-4169-8e22-fb3a0a520501)
 
 
-Tablet 768px
-![loginpage768px](https://github.com/Kauaguarinogabriell/Projeto-formulario-de-login-e-cadastro/assets/111528352/fe3c03ec-fa2f-48bf-a4f5-c801816e34f5)
+
+## Tablet 768px
+![loginpage768px](https://github.com/Kauaguarinogabriell/Projeto-formulario-de-login-e-cadastro/assets/111528352/1db8b41a-2fe2-4a0e-b133-49f9c201f2da)
 
 
-Desktop 1024px
-![loginpage1024px](https://github.com/Kauaguarinogabriell/Projeto-formulario-de-login-e-cadastro/assets/111528352/5aa8f3b8-3cd2-427d-8509-4c8171c912c0)
+
+## Desktop 1024px
+![loginpage1024px](https://github.com/Kauaguarinogabriell/Projeto-formulario-de-login-e-cadastro/assets/111528352/aeaf3eff-4dd9-482b-a3c3-99f0d39c0258)
 
 
-Pagina login:
-![loginecadastrologin](https://github.com/Kauaguarinogabriell/Projeto-formulario-de-login-e-cadastro/assets/111528352/f1430e0e-464e-4be8-aef4-d93bae1d57b0)
+
+## Pagina login:
+![loginecadastrologin](https://github.com/Kauaguarinogabriell/Projeto-formulario-de-login-e-cadastro/assets/111528352/7f788bef-7e73-4a5f-811e-c92dc22a0394)
 
 
-Pagina online: https://kauaguarinogabriell.github.io/Projeto-formulario-de-login-e-cadastro/index.html
+
+
+### Pagina online: https://kauaguarinogabriell.github.io/Projeto-formulario-de-login-e-cadastro/index.html
